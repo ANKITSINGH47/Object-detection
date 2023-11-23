@@ -1,7 +1,7 @@
 # Object Localization and classificaation 
 ## White box Localization
 <img width="314" alt="box-detection" src="https://github.com/ANKITSINGH47/Object-detection/assets/47277960/8b3e17f3-6eb6-49e9-8b59-96b44dd3c863">
-Object localization is a critical task in computer vision, enabling machines to not only recognize objects in an image but also determine their spatial location. White box localization involves gaining insights into the internal workings of a model to understand how it makes predictions. Here we explored white box localization on a black background using TensorFlow, a popular open-source machine learning library. The aim is to shed light on the interpretability of object localization models and their performance in scenarios where the background black.
+\n Object localization is a critical task in computer vision, enabling machines to not only recognize objects in an image but also determine their spatial location. White box localization involves gaining insights into the internal workings of a model to understand how it makes predictions. Here we explored white box localization on a black background using TensorFlow, a popular open-source machine learning library. The aim is to shed light on the interpretability of object localization models and their performance in scenarios where the background black.
 
 
 
