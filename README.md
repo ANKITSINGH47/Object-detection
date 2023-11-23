@@ -18,7 +18,7 @@ We employ a convolutional neural network (CNN) as the base architecture for obje
 We employ localization loss function as Binary cross Entroopy  to train the model. The localization loss ensures accurate bounding box predictions 
 
 ## Training:
-The model is trained on the dataset using TensorFlow's optimization techniques, Adam optimizer. We analyze the convergence and performance metrics to evaluate the model's learning behaviour
+The model is trained on the dataset using TensorFlow's optimization techniques, Adam optimizer.
 
 
 
