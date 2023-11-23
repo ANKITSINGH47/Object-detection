@@ -15,7 +15,7 @@ To conduct our experiments, we utilize a custom dataset containing images with w
 We employ a convolutional neural network (CNN) as the base architecture for object localization. The architecture is designed to have a transparent structure, allowing for detailed examination of internal representations during the white box analysis. TensorFlow's high-level API facilitates the construction of the model.
 
 ## Loss Function:
-We employ localization loss function as Binary cross Entroopy  to train the model. The localization loss ensures accurate bounding box predictions 
+We employ localization loss function as Binary cross Entropy  to train the model. The localization loss ensures accurate bounding box predictions 
 
 ## Training:
 The model is trained on the dataset using TensorFlow's optimization techniques, Adam optimizer.
